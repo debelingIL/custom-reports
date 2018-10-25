@@ -1,0 +1,2 @@
+https://flatuicolors.com/palette/us - Color scheme
+https://fritx.github.io/vue-at/#/en/vmodel - Vue autocomplete
